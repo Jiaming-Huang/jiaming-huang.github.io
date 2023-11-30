@@ -19,3 +19,22 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<!-- For collapsible buttons -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var collapsibles = document.querySelectorAll(".collapsible");
+    collapsibles.forEach(function (collapsible) {
+      var button = collapsible.querySelector(".collapsible-btn");
+      var content = collapsible.querySelector(".collapsible-content");
+
+      button.addEventListener("click", function () {
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+        }
+      });
+    });
+  });
+</script>
