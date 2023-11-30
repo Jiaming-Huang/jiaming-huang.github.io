@@ -31,8 +31,6 @@ Working Paper
   
   <div class="collapsible">
   <button class="button-4 collapsible-btn">abstract</button> 
-  <!-- <a class="button-4" href="../files/glp.pdf">pdf</a>  -->
-  <!-- <a class="button-4" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857086">pdf</a>  -->
   <a class="button-4" href="../files/glp.pdf">pdf</a> 
   <a class="button-4" href="../files/glp_supp.pdf">supp</a> 
   <a class="button-4" href="https://github.com/Jiaming-Huang/GLP">code</a> 
@@ -62,36 +60,10 @@ Working Paper
   <a class="button-4" href="../files/wr.pdf">pdf</a> 
   <a class="button-4" href="/research/wr">highlight</a>
   <a class="button-4" href="../files/wr_slides.pdf">slides</a> 
-  <!-- <a class="button-4" href="../files/rigidity.pdf">pdf</a> 
-  <a class="button-4" href="../files/rigidity_supp.pdf">supp</a> 
+  <!-- <a class="button-4" href="../files/rigidity_supp.pdf">supp</a> 
   <a class="button-4" href="https://github.com/Jiaming-Huang/rigidity">code</a> 
-  <a class="button-4" href="/research/rigidity">highlight</a>
   <a class="button-4" href="../files/rigidity.bib">cite</a> -->
   <!-- (Draft coming soon!) -->
   <div id='absWR' class="collapsible-content">
   </div>
 
-<script>
-    $(document).ready(function() {
-        // Load and insert shared content
-        $('#absQBC').load('abstract.html #absQBC');
-    });
-</script>
-<script>
-    $(document).ready(function() {
-        // Load and insert shared content
-        $('#absGLP').load('abstract.html #absGLP');
-    });
-</script>
-<script>
-    $(document).ready(function() {
-        // Load and insert shared content
-        $('#absFVAR').load('abstract.html #absFVAR');
-    });
-</script>
-<script>
-    $(document).ready(function() {
-        // Load and insert shared content
-        $('#absWR').load('abstract.html #absWR');
-    });
-</script>
