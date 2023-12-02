@@ -1,6 +1,16 @@
 {% include base_path %}
 
 <!-- start custom head snippets -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js" crossorigin="anonymous"></script>
+<script>
+  $(document).ready(function() {
+      // Load and insert shared content
+      $('#absQBC').load('abstract.html #absQBC');
+      $('#absGLP').load('abstract.html #absGLP');
+      $('#absFVAR').load('abstract.html #absFVAR');
+      $('#absWR').load('abstract.html #absWR');
+  });
+</script>
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
