@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiaming Huang / Economics"
 title_separator          : "-"
 name                     : &name "Jiaming Huang"
-description              : &description "personal description"
+description              : &description "Jiaming Huang's website. Research interests: Econometrics and Macroeconomics"
 url                      : https://www.jiaminghuang.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiaming-huang/jiaming-huang.github.io"
@@ -71,11 +71,11 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+# # Analytics
+# analytics:
+#   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          :
 
 
 # Site Author
@@ -86,7 +86,7 @@ author:
   location         : "Barcelona, Spain"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/user=4Myg-MUAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=4Myg-MUAAAAJ"
   email            : "jiaming.huang@upf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
