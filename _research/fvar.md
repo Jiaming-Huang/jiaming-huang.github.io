@@ -38,13 +38,3 @@ The distributional effects give **different** policy implication than convention
 
 - but the above graph shows that the increases in Gini coefficients are mechanical, resulting from a shrinking lower-middle-class
   - remember, most of this share decrease is compensated for by the increase in the richer range
-
-
-
-
-<script>
-    $(document).ready(function() {
-        // Load and insert shared content
-        $('#absFVAR').load('abstract.html #absFVAR');
-    });
-</script>

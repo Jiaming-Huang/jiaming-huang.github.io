@@ -58,12 +58,6 @@ One key feature of the quasi-Bayesian clustering framework is the learning rate 
 - As the learning rate gets smaller, the two posteriors get closer and closer---the posterior modes are closer to the true, at the expense of larger variance (the quasi-posteriors are more dispersed)
 - Ideally, we would calibrate the learning rate to a point where bootstrapped samples give identical posterior distributions (as the bottom right panel $\psi=0.05$ shows), while keeping the variance as small as possible
 
-<script>
-    $(document).ready(function() {
-        // Load and insert shared content
-        $('#absQBC').load('abstract.html #absQBC');
-    });
-</script>
 
 [^1]: Another likelihood-based clustering method is finite mixture models, usually estimated by efficient EM algorithm. Like Bayesian methods, it requires the likelihood to be correctly specified.
 

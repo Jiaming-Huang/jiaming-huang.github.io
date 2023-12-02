@@ -30,11 +30,3 @@ Here, "risks" are defined based on the cyclical responses of wage to aggregate f
 - Conventional wisdom suggests that workers benefit from moving to larger firms. However, this is not always true, because of **interactions among workers within the same firm**.
 
    - When the managerial workers are more powerful, wage changes at the bottom layer are more left-skewed
-
-
-<script>
-    $(document).ready(function() {
-        // Load and insert shared content
-        $('#absWR').load('abstract.html #absWR');
-    });
-</script>
