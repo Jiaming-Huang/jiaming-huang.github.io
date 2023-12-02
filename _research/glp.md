@@ -13,13 +13,6 @@ tags:
 
 [pdf](/files/glp.pdf){: .button-4} [supp](/files/glp_supp.pdf){: .button-4} [code](https://github.com/Jiaming-Huang/GLP){: .button-4} [cite](/files/glp.bib){: .button-4}
 
-### Abstract
-
-<div id='absGLP' style="max-height: 100%"> 
-</div>
-
-### Highlight
-
 Below I plot group-level impulse responses of US MSA-level housing prices to tightening monetary shocks.
 
 ![Housing prices response to monetary tightening](/images/glp_highlight.png)

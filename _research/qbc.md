@@ -13,12 +13,6 @@ tags:
 <!-- [code](https://github.com/Jiaming-Huang/QuasiBayesClustering){: .button-4} [cite](/files/qbc.bib){: .button-4}  -->
 <!-- [supp](/files/ghd_supp.pdf){: .button-4} -->
 
-
-### Abstract
-
-<div id='absQBC' style="max-height: 100%"> 
-</div>
-
 ### Why Quasi-Bayesian Clustering?
 
 There are two popular methods to recover latent group structure:
@@ -48,7 +42,7 @@ $$\pi_{NT}(\boldsymbol{\beta},\boldsymbol{\gamma}) \propto \left( \exp \left[ -N
 Here, we have an additional <span style="color:#191970">**learning rate parameter**</span> $\psi$, which controls the relative weight on the loss component. In plain words, it determines how much we learn from the data (relative to prior knowledge).
 			
 
-### Highlight
+### Learning Rate Calibration
 
 One key feature of the quasi-Bayesian clustering framework is the learning rate calibration. To see how this learning rate can improve inference, I show below the quasi-posterior densities of two bootstrapped samples, under different learning rates.
 
@@ -60,6 +54,3 @@ One key feature of the quasi-Bayesian clustering framework is the learning rate 
 
 
 [^1]: Another likelihood-based clustering method is finite mixture models, usually estimated by efficient EM algorithm. Like Bayesian methods, it requires the likelihood to be correctly specified.
-
-
-

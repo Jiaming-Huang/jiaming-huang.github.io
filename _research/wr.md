@@ -10,13 +10,6 @@ tags:
 
 [slides](/files/wr_slides.pdf){: .button-4} [pdf](/files/wr.pdf){: .button-4}   <!-- [code](https://github.com/Jiaming-Huang/GLP){: .button-4} [cite](/files/glp.bib){: .button-4} -->
 
-### Abstract
-
-<div id='absWR' style="max-height: 100%"> 
-</div>
-
-### Highlight
-
 The main findings of this project can be summarized by the following graph:
 
 ![Wage Cyclicality Summary](/images/wr_sum.png)

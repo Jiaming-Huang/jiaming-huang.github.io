@@ -10,14 +10,6 @@ tags:
 [pdf](/files/fvar.pdf){: .button-4} 
 <!-- [supp](/files/fvar_supp.pdf){: .button-4} [code](https://github.com/Jiaming-Huang/FVAR){: .button-4} [cite](/files/fvar.bib){: .button-4} -->
 
-### Abstract
-
-
-<div id='absFVAR' style="max-height: 100%"> 
-</div>
-
-### Highlight
-
 The main advantage of the FVAR approach can be illustrated by the following graph:
 
 ![Distributional Effects of Tax Cuts](/images/fvar_highlight.png)

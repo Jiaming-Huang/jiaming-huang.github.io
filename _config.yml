@@ -223,6 +223,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      read_time: true
       comments: true
 
 # Sass/SCSS
