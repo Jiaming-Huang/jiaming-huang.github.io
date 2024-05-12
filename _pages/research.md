@@ -10,7 +10,7 @@ author_profile: true
 Working Paper
 ======
 
-- ***Quasi-Bayesian Inference for Grouped Panels*** (Job Market Paper)
+- ***Quasi-Bayesian Inference for Grouped Panels*** 
 
   <!-- (Draft coming soon!)  -->
   <div class="collapsible">
@@ -38,7 +38,7 @@ Working Paper
   </div>
   </div>
 
-- ***Group Local Projections***, R&R at the *Review of Economics and Statistics*
+- ***Group Local Projections*** 
   
   <div class="collapsible">
   <button class="button-4 collapsible-btn">abstract</button> 
@@ -62,6 +62,7 @@ Working Paper
 
 - ***Functional VAR***
 
+  <a href="https://www.timeserieseconometrics.com/">Marcelo Reyes Award, 14th Workshop in Time Series Econometrics (Zaragoza, Spain, 2024).</a>  
   <div class="collapsible">
   <button class="button-4 collapsible-btn">abstract</button> 
   <a class="button-4" href="../files/fvar.pdf">pdf</a> 
